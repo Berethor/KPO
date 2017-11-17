@@ -6,6 +6,8 @@ int main() {
 
 	char name[20];
 
+	std::cout << "Hello world! Have a nice day!\n";
+
 	cout << "Enter your name: ";
 
 	cin >> name;
@@ -17,5 +19,4 @@ int main() {
 	system("pause");
 
 	return 0;
-
 }
